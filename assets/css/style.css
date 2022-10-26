@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html,
+body{
+    height: 100%;
+    background: #000;
+    color: #fff;
+}
+.wrapper{
+    padding: 50px;
+    max-width: 1200px;
+    margin: auto;
+}
+h1{
+    margin-bottom: 15px;
+}
+#list{
+    line-height: 1.4;
+}
+.fullpage-iframe{
+    width: 100vw;
+    height: 100vh;
+    border: none;
+}

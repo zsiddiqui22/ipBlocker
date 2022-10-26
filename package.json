@@ -1,0 +1,22 @@
+{
+  "name": "IP Blocker",
+  "version": "1.0.0",
+  "description": "block user at your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsiddiqui22/ipBlocker.git"
+  },
+  "keywords": [
+    "blocker"
+  ],
+  "author": "Zohaib Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsiddiqui22/ipBlocker/issues"
+  },
+  "homepage": "https://github.com/zsiddiqui22/ipBlocker#readme"
+}
